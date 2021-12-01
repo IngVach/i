@@ -1,0 +1,11 @@
+{
+"companyName": "La-Razon",
+"productName": "TusAnunciosVolando",
+"dataUrl": "TusAnunciosVolandoWeb.data.unityweb",
+"asmCodeUrl": "TusAnunciosVolandoWeb.asm.code.unityweb",
+"asmMemoryUrl": "TusAnunciosVolandoWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "TusAnunciosVolandoWeb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
